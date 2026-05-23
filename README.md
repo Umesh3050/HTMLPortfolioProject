@@ -7,7 +7,7 @@ A static personal portfolio website built using HTML (and optionally CSS/JS) to 
 
 # Live Demo Link
 Provide your GitHub Pages link:
-https://umesh3050.github.io/PortfolioProject/
+https://umesh3050.github.io/PortfolioProject
 
 # Features
 
