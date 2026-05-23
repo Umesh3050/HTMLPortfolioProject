@@ -28,7 +28,7 @@ HTML, CSS, maybe JavaScript.
 # How to Run Locally
 Simple steps like:
 
-git clone https://github.com/umesh3050/HTMLPortfolioProject.git
+git clone https://github.com/umesh3050/PortfolioProject.git
 open index.html in a browser
 
 
